@@ -104,6 +104,11 @@ Supported notification channels:
 - `docs/NEON.md`
 - `docs/CONTRIBUTING.md`
 
+## Project Links
+
+- [Roadmap Project](https://roadmap.sh/projects/database-backup-utility)
+- [GitHub](https://github.com/rowjay007)
+
 ## Security & Compliance Notes
 
 - Encrypted backups at rest with streaming AEAD

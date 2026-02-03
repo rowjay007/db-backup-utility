@@ -1,0 +1,5 @@
+bin/
+backups/
+*.enc
+*.log
+.DS_Store
